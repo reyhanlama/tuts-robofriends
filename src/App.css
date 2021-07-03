@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+@media screen and (min-width: 30em) {
+  .pa4-ns {
+    padding: 2rem;
+  }
+
+  .mb4-ns {
+    margin-bottom: 2rem;
+  }
+
+  .f-headline-ns {
+    font-size: 6rem;
+  }
+
+  .f5-ns {
+    font-size: 1rem;
+  }
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
