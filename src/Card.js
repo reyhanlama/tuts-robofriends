@@ -7,6 +7,7 @@ const Card = () => {
       <div>
         <h2>Jane Doe</h2>
         <p>janedoe@gmail.com</p>
+        <p>+919929292</p>
       </div>
     </div>
   )
