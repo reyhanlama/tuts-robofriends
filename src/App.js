@@ -7,9 +7,6 @@ function App() {
   return (
     <div>
       <h1>robofriends</h1>
-      <Card />
-      <Card />
-      <Card />
     </div>
   )
 }
